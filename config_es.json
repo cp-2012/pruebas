@@ -10,12 +10,12 @@
       "layout": "bannerImage",
       "items": [
         {
-          "category": 7,
+          "url": "https://soloonly.com/paginas/ropa-only-mujer-7",
           "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/grupo4.jpg",
           "padding": 5
         },
         {
-          "category": 6,
+          "blog": 6,
           "image": "https://only.consiga.es/img/cms/portada-hombre-mediana/rebajas_hombre/grupo1.jpg",
           "padding": 5
         }
