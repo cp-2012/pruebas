@@ -50,7 +50,7 @@
     {
       "name": "Vista reciente",
       "layout": "recentView"
-    },
+    }
   ],
   "Setting": {
     "MainColor": "#5a84d6",
