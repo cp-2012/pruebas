@@ -13,7 +13,7 @@
                     "category": 5,
                     "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/grupo4.jpg",
                     "padding": 5,
-                    "height": 1.00
+                    "height": 100
                 }
             ]
         },
@@ -24,7 +24,7 @@
                     "category": 4,
                     "image": "https://only.consiga.es/img/cms/portada-hombre-mediana/rebajas_hombre/grupo1.jpg",
                     "padding": 5,
-                    "height": 1.00
+                    "height": 100
                 }
             ]
         },
@@ -35,7 +35,7 @@
                     "category": 24,
                     "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/camisetas.jpg",
                     "padding": 5,
-                    "height": 1.00
+                    "height": 100
                 }
             ]
         },
@@ -46,7 +46,7 @@
                     "category": 22,
                     "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/reb_vestidos.jpg",
                     "padding": 5,
-                    "height": 1.00
+                    "height": 100
                 }
             ]
         },
