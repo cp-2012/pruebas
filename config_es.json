@@ -10,12 +10,17 @@
             "layout": "bannerImage",
             "items": [
                 {
-                    "url": "https://soloonly.com/paginas/ropa-only-mujer-7",
+                    "category": 5,
                     "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/grupo4.jpg",
                     "padding": 5
-                },
+                }
+            ]
+        },
+        {
+            "layout": "bannerImage",
+            "items": [
                 {
-                    "blog": 6,
+                    "category": 4,
                     "image": "https://only.consiga.es/img/cms/portada-hombre-mediana/rebajas_hombre/grupo1.jpg",
                     "padding": 5
                 }
@@ -25,10 +30,15 @@
             "layout": "bannerImage",
             "items": [
                 {
-                    "category": 23,
+                    "category": 24,
                     "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/camisetas.jpg",
                     "padding": 5
-                },
+                }
+            ]
+        },
+        {
+            "layout": "bannerImage",
+            "items": [
                 {
                     "category": 22,
                     "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/reb_vestidos.jpg",
@@ -48,8 +58,24 @@
             "isSnapping": true
         },
         {
-            "name": "Vista reciente",
-            "layout": "recentView"
+            "layout": "bannerImage",
+            "items": [
+                {
+                    "category": 16,
+                    "image": "https://only.consiga.es/img/cms/portada-hombre-mediana/rebajas_hombre/camisetas.jpg",
+                    "padding": 5
+                }
+            ]
+        },
+        {
+            "layout": "bannerImage",
+            "items": [
+                {
+                    "category": 14,
+                    "image": "https://only.consiga.es/img/cms/portada-hombre-mediana/rebajas_hombre/vaqueros.jpg",
+                    "padding": 5
+                }
+            ]
         }
     ],
     "Setting": {
