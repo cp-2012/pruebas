@@ -13,7 +13,12 @@
                     "category": 5,
                     "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/grupo4.jpg",
                     "padding": 5,
-                    "height": 100
+                    "marginTop":0.0,
+                    "marginBottom":0.0,
+                    "marginLeft":0.0,
+                    "marginRight":0.0,
+                    "height":1.0,
+                    "fit":"contain"
                 }
             ]
         },
@@ -24,7 +29,12 @@
                     "category": 4,
                     "image": "https://only.consiga.es/img/cms/portada-hombre-mediana/rebajas_hombre/grupo1.jpg",
                     "padding": 5,
-                    "height": 100
+                    "marginTop":0.0,
+                    "marginBottom":0.0,
+                    "marginLeft":0.0,
+                    "marginRight":0.0,
+                    "height":1.0,
+                    "fit":"contain"
                 }
             ]
         },
@@ -35,7 +45,12 @@
                     "category": 24,
                     "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/camisetas.jpg",
                     "padding": 5,
-                    "height": 100
+                    "marginTop":0.0,
+                    "marginBottom":0.0,
+                    "marginLeft":0.0,
+                    "marginRight":0.0,
+                    "height":1.0,
+                    "fit":"contain"
                 }
             ]
         },
@@ -46,7 +61,12 @@
                     "category": 22,
                     "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/reb_vestidos.jpg",
                     "padding": 5,
-                    "height": 100
+                    "marginTop":0.0,
+                    "marginBottom":0.0,
+                    "marginLeft":0.0,
+                    "marginRight":0.0,
+                    "height":1.0,
+                    "fit":"contain"
                 }
             ]
         },
