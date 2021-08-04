@@ -22,6 +22,21 @@
       ]
     },
     {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 23,
+          "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/camisetas.jpg",
+          "padding": 5
+        },
+        {
+          "category": 22,
+          "image": "https://only.consiga.es/img/cms/portada-mujer-mediano/rebajas/reb_vestidos.jpg",
+          "padding": 5
+        },
+      ]
+    },
+    {
       "name": "Vista reciente",
       "layout": "recentView"
     },
