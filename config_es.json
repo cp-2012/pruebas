@@ -17,8 +17,7 @@
                     "marginBottom":0.0,
                     "marginLeft":0.0,
                     "marginRight":0.0,
-                    "height":1.0,
-                    "fit":"fitWidth"
+                    "height":1.0
                 },
                 {
                     "category": 4,
@@ -28,8 +27,7 @@
                     "marginBottom":0.0,
                     "marginLeft":0.0,
                     "marginRight":0.0,
-                    "height":1.0,
-                    "fit":"fitWidth"
+                    "height":1.0
                 }
             ]
         },
