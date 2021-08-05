@@ -87,21 +87,35 @@
         },
         {
             "layout": "bannerImage",
+            "height":0.55,
             "items": [
                 {
                     "category": 16,
                     "image": "https://only.consiga.es/img/cms/portada-hombre-mediana/rebajas_hombre/camisetas.jpg",
-                    "padding": 5
+                    "padding": 5,
+                    "marginTop":0.0,
+                    "marginBottom":0.0,
+                    "marginLeft":0.0,
+                    "marginRight":0.0,
+                    "height":0.55,
+                    "radius":0.0
                 }
             ]
         },
         {
             "layout": "bannerImage",
+            "height":0.55,
             "items": [
                 {
                     "category": 14,
                     "image": "https://only.consiga.es/img/cms/portada-hombre-mediana/rebajas_hombre/vaqueros.jpg",
-                    "padding": 5
+                    "padding": 5,
+                    "marginTop":0.0,
+                    "marginBottom":0.0,
+                    "marginLeft":0.0,
+                    "marginRight":0.0,
+                    "height":0.55,
+                    "radius":0.0
                 }
             ]
         }
