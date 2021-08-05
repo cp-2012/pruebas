@@ -8,7 +8,7 @@
         },
         {
             "layout": "bannerImage",
-            "height": 0.5,
+            "height": 0.55,
             "items": [
                 {
                     "category": 5,
@@ -18,14 +18,14 @@
                     "marginBottom":0.0,
                     "marginLeft":0.0,
                     "marginRight":0.0,
-                    "height":0.6,
+                    "height":0.55,
                     "radius":0.0
                 }
             ]
         },
         {
             "layout": "bannerImage",
-            "height": 0.6,
+            "height": 0.55,
             "items": [
                 {
                     "category": 4,
@@ -35,14 +35,14 @@
                     "marginBottom":0.0,
                     "marginLeft":0.0,
                     "marginRight":0.0,
-                    "height":0.6,
+                    "height":0.55,
                     "radius":0.0
                 }
             ]
         },
         {
             "layout": "bannerImage",
-            "height": 0.6,
+            "height": 0.55,
             "items": [
                 {
                     "category": 24,
@@ -52,14 +52,14 @@
                     "marginBottom":0.0,
                     "marginLeft":0.0,
                     "marginRight":0.0,
-                    "height":0.6,
+                    "height":0.55,
                     "radius":0.0
                 }
             ]
         },
         {
             "layout": "bannerImage",
-            "height": 0.6,
+            "height": 0.55,
             "items": [
                 {
                     "category": 22,
@@ -69,7 +69,7 @@
                     "marginBottom":0.0,
                     "marginLeft":0.0,
                     "marginRight":0.0,
-                    "height":0.6,
+                    "height":0.55,
                     "radius":0.0
                 }
             ]
