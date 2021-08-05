@@ -19,6 +19,17 @@
                     "marginRight":0.0,
                     "height":1.0,
                     "fit":"fitWidth"
+                },
+                {
+                    "category": 4,
+                    "image": "https://only.consiga.es/img/cms/portada-hombre-mediana/rebajas_hombre/grupo1.jpg",
+                    "padding": 5,
+                    "marginTop":0.0,
+                    "marginBottom":0.0,
+                    "marginLeft":0.0,
+                    "marginRight":0.0,
+                    "height":1.0,
+                    "fit":"fitWidth"
                 }
             ]
         },
