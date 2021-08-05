@@ -8,6 +8,7 @@
         },
         {
             "layout": "bannerImage",
+            "height": 1.00,
             "items": [
                 {
                     "category": 5,
@@ -23,6 +24,7 @@
         },
         {
             "layout": "bannerImage",
+            "height": 1.00,
             "items": [
                 {
                     "category": 4,
@@ -38,6 +40,7 @@
         },
         {
             "layout": "bannerImage",
+            "height": 1.00,
             "items": [
                 {
                     "category": 24,
@@ -53,6 +56,7 @@
         },
         {
             "layout": "bannerImage",
+            "height": 1.00,
             "items": [
                 {
                     "category": 22,
